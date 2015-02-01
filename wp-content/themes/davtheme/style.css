@@ -1,0 +1,112 @@
+/*
+Theme Name: davtheme
+Theme URI: http://david-seixas.fr/
+Description: Thème de test	
+Version 1.0
+Author : David Seixas
+Author URI: http://david-seixas.fr/
+Tags: grey, full-width, simple
+
+	davtheme
+	
+http://david-seixas.fr/
+
+*/
+
+body
+{
+		margin: auto;
+		width: 80%;
+		padding: 0px;
+		background: #f2f2f2;
+		color: white;
+		margin-top:50px;
+}
+
+header
+{
+		background: white;
+		height: 150px;
+}
+	header img
+	{
+		width: 8%;
+	}
+	.headera
+	{	
+		margin: auto;
+		text-align: center;
+	}
+
+nav
+{
+		height: 150px;
+}
+	.nava
+	{
+		background: red;		
+		height: 50px;
+	}
+	.navb
+	{
+		background: #D484FF;				
+		height: 100px;
+		width: 70%;
+		float: left;
+	}
+	.navc
+	{
+		background: yellow;				
+		height: 100px;
+		width: 30%;
+		float: right;
+	}
+
+section
+{
+		background: white;
+		height: 1850px;
+}
+
+#article{
+	color: black;
+}
+
+.articleindex{
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 20px;
+		width: 40%;	
+		height: 200px;
+		float: left;
+}
+
+article
+{
+	display: inline-block;
+}
+	.articlez
+	{
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 20px;
+		width: 90%;
+		height: 150px;
+	}
+	
+aside
+{
+		background: #E89D0C;
+		height: 200px;
+}
+
+footer
+{
+		background: #420CE8;
+		height: 100px;
+		width: 100%;
+}
+
+
+
+
